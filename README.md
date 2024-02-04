@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @viraajsinghgill
-- 👀 I’m interested in DATA Science, Data ENgineer and Full Stack
-- 🌱 I’m currently learning LLM
-- 💞️ I’m looking to collaborate on DATA SCIENCE
-- 📫 How to reach me LinkedIn
+
 
 <!---
 viraajsinghgill/viraajsinghgill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
